@@ -1,5 +1,5 @@
 # RAG
-Single Rag application using standard dataset available on Kaggle , FAISS for vector store and similarity search and Ollama for response generation.
+Simple Rag application using standard dataset available on Kaggle , FAISS for vector store and similarity search and Ollama for response generation.
 
 # Retrieval-Augmented Generation (RAG) Pipeline with TinyLlama via Ollama
 
